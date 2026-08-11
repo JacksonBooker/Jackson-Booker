@@ -25,15 +25,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://jacksonbooker.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/<https://github.com/JacksonBooker/Jackson-Booker>/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Jackson Booker', // Usually your GitHub org/user name.
+  projectName: 'Documentation', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
 
@@ -50,28 +50,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -88,7 +66,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Jackson Booker Documentation',
+        title: 'Jackson Booker',
         logo: {
           alt: 'Jackson Booker Logo',
           src: 'img/jackson-logo.svg',
@@ -102,7 +80,12 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'www.linkedin.com/in/jacksonbooker',
+            label: 'Linkedin',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/JacksonBooker',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,19 +104,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Common Apps',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Plex',
+                href: 'https://watch.plex.tv/account/sign-in?forwardUrl=%2F%3F',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Tailscale',
+                href: 'https://login.tailscale.com/login',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Synology DS425+ Manual',
+                href: 'https://kb.synology.com/en-in/HIGs/DS425p_HIG/1',
               },
             ],
           },
@@ -146,12 +129,16 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/JacksonBooker/Jackson-Booker',
+              },
+              {
+                label: 'GitHub',
+                href: 'www.linkedin.com/in/jacksonbooker',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Jackson's Documentation, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
