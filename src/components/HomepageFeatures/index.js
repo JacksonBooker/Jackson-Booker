@@ -4,34 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Plex, Media Service',
+    Svg: require('@site/static/img/Plex_logo_2022.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Watch movies and TV from your own physical collection!
       </>
     ),
+    link: 'https://watch.plex.tv/account/sign-in?forwardUrl=%2F%3F',
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Tailscale, Remote Access',
+    Svg: require('@site/static/img/Tailscale-Logo-Black.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Connect securely to your own private network and have remote access to your NAS anywhere.
       </>
     ),
+    link: 'https://login.tailscale.com/login',
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Immitch',
+    Svg: require('@site/static/img/immich-logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Keep all your personal and unique images on your own server.
       </>
     ),
+    link: 'https://immich.app/',
   },
 ];
 

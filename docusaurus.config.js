@@ -73,14 +73,13 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'defaultSidebar',
+             to: '/docs/General/How To Write Good Documentation',
             position: 'left',
             label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'www.linkedin.com/in/jacksonbooker',
+            href: 'https://www.linkedin.com/in/jacksonbooker/',
             label: 'Linkedin',
             position: 'right',
           },
@@ -132,8 +131,8 @@ const config = {
                 href: 'https://github.com/JacksonBooker/Jackson-Booker',
               },
               {
-                label: 'GitHub',
-                href: 'www.linkedin.com/in/jacksonbooker',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/jacksonbooker/',
               },
             ],
           },
