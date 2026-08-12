@@ -1,4 +1,5 @@
-![markdown-logo General-on-a-blue-background](./Photos/markdown-logo General-on-a-blue-background.jpg)
+![markdown](./img/markdown.png)
+
 Writing good documentation starts with what you are solving. You have to include why this is important and why should the user care. I write documentation so that I really learn what I am doing. Missing crucial points will hinder my ability to understand the concepts that I writing or programming. People also write documentation to teach other people about skills and concepts that they have learned. 
 
 Staring out with software documentation it is important to include 6 important details that is outlined in the article [The Art of Writing Good Documentation](https://medium.com/analysts-corner/the-art-of-writing-good-documentation-6e4ce4cd3126). These 6 details are
