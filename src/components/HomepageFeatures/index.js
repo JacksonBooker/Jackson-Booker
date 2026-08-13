@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Plex, Media Service',
-    Svg: require('@site/static/img/Plex_logo_2022.svg').default,
+    Svg: require('@site/static/img/plex.svg').default,
     description: (
       <>
         Watch movies and TV from your own physical collection!
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Tailscale, Remote Access',
-    Svg: require('@site/static/img/Tailscale-Logo-Black.svg').default,
+    Svg: require('@site/static/img/tailscale.svg').default,
     description: (
       <>
         Connect securely to your own private network and have remote access to your NAS anywhere.

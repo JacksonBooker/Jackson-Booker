@@ -130,10 +130,6 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/JacksonBooker/Jackson-Booker',
               },
-              {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/in/jacksonbooker/',
-              },
             ],
           },
         ],

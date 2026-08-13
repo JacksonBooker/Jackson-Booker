@@ -28,3 +28,10 @@
   --ifm-color-primary-lightest: #EDE9FE;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.theme-doc-markdown img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 80%;
+  height: auto;
+}
