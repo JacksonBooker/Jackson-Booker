@@ -1,6 +1,7 @@
 ---
 title: Computers
 displayed_sidebar: computersSidebar
+sidebar_position: 1
 ---
 
 # Computers

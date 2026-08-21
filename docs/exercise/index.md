@@ -1,6 +1,7 @@
 ---
 title: Exercise
 displayed_sidebar: exerciseSidebar
+sidebar_position: 1
 ---
 
 # Exercise

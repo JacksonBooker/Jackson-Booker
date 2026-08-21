@@ -1,6 +1,7 @@
 ---
 title: Politics
 displayed_sidebar: politicsSidebar
+sidebar_position: 1
 ---
 
 # Politics
