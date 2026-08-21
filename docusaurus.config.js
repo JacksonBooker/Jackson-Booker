@@ -119,8 +119,8 @@ const config = {
                 to: 'https://dash.cloudflare.com/',
               },
               {
-                label: 'Docusaurus Docs'
-                to: 'https://docusaurus.io/docs'
+                label: 'Docusaurus Docs',
+                to: 'https://docusaurus.io/docs',
               },
             ],
           },
