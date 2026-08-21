@@ -112,11 +112,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Quick Links',
             items: [
               {
-                label: 'Documentation',
-                to: '/docs/General/How To Write Good Documentation',
+                label: 'CloudFlare',
+                to: 'https://dash.cloudflare.com/',
+              },
+              {
+                label: 'Docusaurus Docs'
+                to: 'https://docusaurus.io/docs'
               },
             ],
           },
