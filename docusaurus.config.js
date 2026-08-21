@@ -50,6 +50,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: {
+        sidebarPath: './sidebars.js',
+      },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -73,9 +76,24 @@ const config = {
         },
         items: [
           {
-             to: '/docs/General/How To Write Good Documentation',
+            to: '/docs/computers/',
+            label: 'Computers',
             position: 'left',
-            label: 'Documentation',
+          },
+          {
+            to: '/docs/finance/',
+            label: 'Finance',
+            position: 'left',
+          },
+          {
+            to: '/docs/politics/',
+            label: 'Politics',
+            position: 'left',
+          },
+          {
+            to: '/docs/exercise/',
+            label: 'Exercise',
+            position: 'left',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
