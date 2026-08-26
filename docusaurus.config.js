@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/JBD_Social_Card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -95,7 +95,7 @@ const config = {
             label: 'Exercise',
             position: 'left',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://www.linkedin.com/in/jacksonbooker/',
             label: 'Linkedin',
