@@ -1,6 +1,6 @@
 ![images](./img/images.png)
 
-# Documentation Hosting
+# How to Get Free Hosting For Docusaurus?
 
 If you want to make a site just like this one than you can follow this guide that I have put together. This site cost around $10 a year to maintain, but you will have full customizablity, custom domain name, and access to an already made template. If that sounds good than stay here and make your own documentation and blogging site. Before anything you must have an installation of [[Docusaurus]] on your local machine. This is if you want to follow along exactly to what I am doing.
 
@@ -20,4 +20,19 @@ This next step will be openning bash in the Docusaurus root folder. You can go t
 
 ![Screenshot 2026-08-21 212631](./img/cmd-screenshot.png)
 
-Now that you are in the terminal
+Now that you are in the terminal, you can follow this [Github Article](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#initializing-a-git-repository) explaining how to import local files into your github. The jist of it is:
+```
+git init -b main
+git add .
+git remote add origin https:theActualLinkOfYourGithubRepo
+git push -u origin main
+```
+Once you do that for the first time, pushing your updates and changes gets much eaiser. When you make a change that you want to add to your repo you type these three lines in your terminal, that is in your root folder. It looks like this:
+```
+git add .
+git commit -m "Name Of Your Changes"
+git push
+```
+## Connecting Github to Cloudflare
+
+
