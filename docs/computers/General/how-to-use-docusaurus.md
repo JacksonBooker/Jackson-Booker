@@ -1,9 +1,11 @@
 ---
 title: How To Use Docusaurus?
 ---
+![docusaurus-logo](./img/docusaurus-logo.png)
+
 # How To Use Docusaurus?
 
-Docusaurus is a great open source solution to organizing and uploading your documentation online for others to see. This was created my Meta and is under an MIT License. This is primarily used for projects to host there documentation, but many people use the software for other things. For example, this site was built with Docusaurus.
+Docusaurus is a great open source solution to organizing and uploading your documentation online for others to see. Docusaurus uses [Markdown](./how-to-write-good-documentation.md) files to create the documents. This was created my Meta and is under an MIT License. This is primarily used for projects to host there documentation, but many people use the software for other things. For example, this site was built with Docusaurus.
 
 ## How to Download and Get Started?
 
@@ -26,12 +28,36 @@ npx create-docusaurus@latest my-website classic
 For the "my-website" piece, you can change that to whatever you like. I my demonstration I am using "example-site". It should look like this:
 ![docu-install](./img/docu-install.png)
 
-Once downloaded, you will need to find the folder on your computer. The path should be C:\Users\YOURNAME\YOURSITE. You Can move your site to anywhere you want. I personally keep my website in my "Documents" folder. 
+Once downloaded, you will need to find the folder on your computer. The path should be C:\Users\YOURNAME\YOURSITE. You can move your site to anywhere you want. I have personally moved my website to my "Documents" folder for easy use. If everything worked right then your folders should look like this:
+
+![docu-folder-image](./img/docu-folder-image.png)
 
 ## What Files Do I Need To Use? 
 
-## How to Write Your Documentation?
+The two places that you need to work in to customize your space is `docusaurus.config.js` file and the `docs` folder. Editing anything else is optional. For more information you can go to this [Docusaurus Configuration Article.](https://docusaurus.io/docs/configuration) For the website customization, all you need is the `docusaurus.config.js`, and it is super easy to use. I like to open this file in Visual Studio Code, a code editor that many people often use, to make edits. When you open your config file, you can start editing the orange text. The green text is there for information on what to write and how to use. I strongly suggest reading through it before changing anything. 
 
-## How to Host Your Site?
+![vs-config-one](./img/vs-config-one.png)
 
-## Troubleshooting Errors
+Once you change your the edit your information, you will have your personalized documentation website. The second item that you need to change is the `docs` folder. The `docs` folder is what holds all of your markdown files and turns them into the documents that you can see online. What I did is, I pointed Zettlr, a markdown editor, to my `docs` folder so I can edit the markdown files and folder. I explain a little about this in my other article, [How To Write Good Documentation?](.\how-to-write-good-documentation.md) 
+
+Of course there are other modifications you can do like changing all the colors by going to this path `C:\Users\YOURNAME\Documents\example-site\src\css` or adjusting your sidebars by going to `sidebars.js`, but Docusaurus provides detailed articles for you to figure that out.
+
+### Testing Your Files
+
+When testing your site, you open your terminal, that is open in your folder. You can do this by writing "cmd" in your Docusaurus root folder. Once your in the terminal, type:
+```
+npm run start
+```
+This will run your site locally so that you can see how it looks in a browser. You can eventually add your site online for $10 a year, and with a custom domain by following my other article that I wrote called [How To Get Free Hosting For Docusaurus?](./how-to-get-free-hosting-for-docusaurus.md)
+
+## Troubleshooting
+
+Initially, when I ran `npm run build` I would get an error because of broken links. I figured out that in the `docusaurus.config.js` file that I need to adjust the code from,
+```
+ onBrokenLinks: 'throw',
+```
+to
+```
+ onBrokenLinks: 'ignore',
+```
+for the site to build correctly.
