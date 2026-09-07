@@ -36,11 +36,46 @@ Once downloaded, you will need to find the folder on your computer. The path sho
 
 The two places that you need to work in to customize your space is `docusaurus.config.js` file and the `docs` folder. Editing anything else is optional. For more information you can go to this [Docusaurus Configuration Article.](https://docusaurus.io/docs/configuration) For the website customization, all you need is the `docusaurus.config.js`, and it is super easy to use. I like to open this file in Visual Studio Code, a code editor that many people often use, to make edits. When you open your config file, you can start editing the orange text. The green text is there for information on what to write and how to use. I strongly suggest reading through it before changing anything. 
 
-![vs-config-one](./img/vs-config-one.png)
+![vs-config-one](./img/vs-config-one.png "vs-config-one")
 
 Once you change your the edit your information, you will have your personalized documentation website. The second item that you need to change is the `docs` folder. The `docs` folder is what holds all of your markdown files and turns them into the documents that you can see online. What I did is, I pointed Zettlr, a markdown editor, to my `docs` folder so I can edit the markdown files and folder. I explain a little about this in my other article, [How To Write Good Documentation?](.\how-to-write-good-documentation)
 
 Of course there are other modifications you can do like changing all the colors by going to this path `C:\Users\YOURNAME\Documents\example-site\src\css` or adjusting your sidebars by going to `sidebars.js`, but Docusaurus provides detailed articles for you to figure that out.
+
+### How To Add KaTex To Your Files?
+
+KaTex is a mathematical render-er so you can type math symbols and equations using your keyboard and have preview like a hand written equation.
+
+To start, go to the [KaTex Website]((https://katex.org/)) that has more information and the install.
+
+Using npm, you can install it using the command:
+
+```npm install katex```
+
+### Adding KaTex to Your Config File
+
+To add KaTex to your `docusaurus.config.js` file you must add three code blocks.  This is coming from [Docusaurus](https://docusaurus.io/docs/markdown-features/math-equations?) official documentation. The first one is this code block which you will add at the very top of your config file, right above `const config = {`:
+```
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+```
+This next one you will add under `presets: [` and under `docs:{`:
+```
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
+```
+The last one is the stylesheets which you will add as its own big block right about `themeConfig`:
+```
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
+  ],
+```
 
 ### Testing Your Files
 

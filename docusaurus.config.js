@@ -9,6 +9,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+
 const config = {
   title: 'Jackson Booker Documentation',
   tagline: 'Redefining The World, One Solution At A Time.',
@@ -52,6 +55,9 @@ const config = {
       ({
         docs: {
         sidebarPath: './sidebars.js',
+
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
       },
         theme: {
           customCss: './src/css/custom.css',
@@ -59,11 +65,20 @@ const config = {
       }),
     ],
   ],
+  
+  stylesheets: [
+      {
+        href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+        type: 'text/css',
+        integrity:
+          'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+        crossorigin: 'anonymous',
+      },
+    ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/JBD_Social_Card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,

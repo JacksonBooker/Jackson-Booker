@@ -47,3 +47,13 @@ tags:
 ---
 ```
 While this is great to have, you don't actually need it to work with Docusaurus. This is an addition for people that want to have more customizations. Any .md file will work with Docusaurus. So to answer the title question, there is nothing specfic that you need to do to make your markdown files compatible with docusaurus. 
+
+## How To Add Mathematical Elements into Your Markdown
+
+If your application is running KaTex then you can make a simple code block but with math at the end of first part, like this:
+
+```
+/`/`/`math
+2 + 2 = 4
+`/`/`
+```
