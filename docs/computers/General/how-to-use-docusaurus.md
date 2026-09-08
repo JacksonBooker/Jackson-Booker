@@ -44,7 +44,7 @@ Of course there are other modifications you can do like changing all the colors 
 
 ### How To Add KaTex To Your Files?
 
-KaTex is a mathematical render-er so you can type math symbols and equations using your keyboard and have preview like a hand written equation.
+KaTex is a mathematical render-er so you can type math symbols and equations using your keyboard and have preview like a hand written equation. If you are not adding math, you can skip any part with KaTex in it.
 
 To start, go to the [KaTex Website]((https://katex.org/)) that has more information and the install.
 

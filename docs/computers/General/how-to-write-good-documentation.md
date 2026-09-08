@@ -38,7 +38,7 @@ There is also many more like email footers, block-quote embeds and other cool he
 
 ## How To make Your Documentation Compatible with Docusaurus?
 
-Docusaurus is a great way to start having a documentation website in minutes. This tool provides all the code so that you can get busy writing your own text without the hassle of creating your own site. Docusaurus has "front matter" which is the [[MetaData]] for your document. People can write tags, custom slugs, Id's and so on. 
+Docusaurus is a great way to start having a documentation website in minutes. This tool provides all the code so that you can get busy writing your own text without the hassle of creating your own site. Docusaurus has "front matter" which is the [Metadata](./Software/Plex/MetaData) for your document. People can write tags, custom slugs, Id's and so on. 
 ```
 ---
 tags:
@@ -46,14 +46,14 @@ tags:
   - docusaurus
 ---
 ```
-While this is great to have, you don't actually need it to work with Docusaurus. This is an addition for people that want to have more customizations. Any .md file will work with Docusaurus. So to answer the title question, there is nothing specfic that you need to do to make your markdown files compatible with docusaurus. 
+While this is great to have, you don't actually need it to work with Docusaurus. This is an addition for people that want to have more customization. Any .md file will work with Docusaurus. So to answer the title question, there is nothing specific that you need to do to make your markdown files compatible with docusaurus. 
 
 ## How To Add Mathematical Elements into Your Markdown
 
 If your application is running KaTex then you can make a simple code block but with math at the end of first part, like this:
-
 ```
 /`/`/`math
 2 + 2 = 4
 `/`/`
 ```
+Once you have that you can start adding custom KaTex syntax in your documents. [KaTex](https://katex.org/docs/supported) has a whole doc on there supported syntax and equations that you can use in your documentation.
