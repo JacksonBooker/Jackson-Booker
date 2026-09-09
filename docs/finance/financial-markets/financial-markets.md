@@ -24,7 +24,7 @@ Quick Definition: **Interest Rate** is the cost of borrowing money and an added 
 
 Financial Intermediaries are institutions that take money from people that have money saved and loan it out to borrowers. The most common example is a bank. A bank takes many people's savings accounts and loans it to people so they can buy a house. They get a mortgage and pay the bank periodically until there is no outstanding debt. Other examples include insurance companies, pension funds, and investment banks. 
 
-![Screenshot 2026-09-08 133626](./img/Screenshot 2026-09-08 133626.png)
+![financial-intermediaries](./img/financial-intermediaries.png)
 
 In the photo you can see that there is two different types of funding and loaning. The indirect finance is the part where we have financial intermediaries that facilitate the funds. Furthermore, we have direct finance where people you there funds to purchase directly into financial markets without an institution in the middle.
 

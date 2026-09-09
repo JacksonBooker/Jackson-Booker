@@ -1,0 +1,68 @@
+---
+title: Accredited Investor Laws (Acedemic)
+---
+
+Jackson Blackstone Booker
+Intro to Academic Writing 1103
+Professor Eliabeth Young
+April 21, 2026
+
+The Untold Truth About Accredited Investor Laws
+
+The wealthy have an extraordinary number of opportunities that the middle class and lower class will never get. Rich Americans take advantage of the middle class to exploit them for money. The government steps in to resolve this issue, and instead of helping the average American make investments in private markets, they prevent them. In 1933, accredited investor laws were enacted to disqualify the average person from investing in private markets, to “protect” them from risky investments. Only around 14.8% of Americans are allowed to invest in unregistered securities today, and these few make lucrative amounts of wealth (Stengel). _Accredited investor laws only help the wealthy and criminals, and they exclude minorities from profitable investments, allow for misconduct in private business, and unrightfully disqualify financially sophisticated individuals._
+
+The significance of this topic lies in the amount of privilege there is in private markets that disproportionally effect minorities. Grier E. Barnes, a graduate of New York University School of Law and author of “Racial Exclusion in Private Markets: How the New Accredited Investor Standard Is Arbitrary and Capricious,” argues that private markets are not just for all races but instead favor white people. Barnes uses “AI” as an accredited investor and not artificial intelligence, which is an unfortunate abbreviation. Barnes argues that the private markets are expanding by explaining, “The AI test matters because over time, public markets—generally available to any investor—have contracted as private capital markets have ballooned, making AI status the primary point of entry to an increasingly lucrative pool of wealth” (1970). She explains that when the accredited investor laws were initially enacted, the public markets were much larger than in private markets. This has now changed; the private market holds much more value today than in 1933, which is a major point of this argument. Barnes later continues to say, “Readily available data suggest that the AI standard—historically and as amended by the Final Rule—excludes Black investors from America’s growing private markets to the detriment of the economy” (2008). Barnes is now describing how minorities have been left out. This was much less of an issue even twenty years ago because private markets were not as valuable. As private markets have become more valuable, there have been fewer opportunities for minorities to enter. Minorities are being left out while white people thrive and are the ones who make the most money.
+
+Building on this idea, Christopher R. Zimmerman, a graduate of Northwestern University Pritzker School of Law and author of “Accredited Investors: A Need for Increased Protection in Private Offerings,” argues that accredited investor laws do not adequately protect Americans in private markets.  Zimmerman argues that the inequality between public markets and private markets is large by illustrating how “less than 0.02% of businesses in the United States are publicly traded on an exchange, the amount raised through private offerings is huge—more than $3 trillion in 2017 compared to $1.5 trillion that was raised through registered offerings” (509).  Zimmerman concludes that private markets provide extremely large amounts of opportunity for wealth while being very exclusive. Accredited investors have exclusive access to invest in 99.98% of businesses that the middle-class will not be able to. By restricting people from private markets, huge amounts of money are generated, but only for the ownership which are people that qualify to be an accredited investor.
+
+Another perspective demonstrates that there is misconduct because of the exclusivity in private markets. Matthew Wansley, a graduate of Harvard Law School and author of “Taming Unicorns,” explores modern private equity funding and its unique track record of high returns not seen in decades. Wansley claims that misconduct affects other people and not just venture capital firms, which are companies that invest in small businesses (VCs): “If unicorn misconduct only affected VCs or other sophisticated investors, the appropriate reaction might be to tell those investors: caveat emptor. But the misconduct at Theranos, Uber, and Juul harmed third parties irreversibly” (1258). Wansley uses the term unicorn, which refers to a company that has a billion-dollar valuation or higher in a private market. He also explains the harms of keeping private markets exclusive to only certain members of the United States. He illustrates that they are exclusive, which should change so that private companies would have to report more. Having private companies report more would make it harder for these firms to hide misconduct. Wansley also discusses the fact that private markets have blossomed and grown substantially, like in Zimmerman’s writing. Because private markets have had so much growth, there is more of a need to search for misconduct.
+
+Theranos raised around 1.3 billion dollars and was exposed for misconduct in 2015. In 2015, the largest amount of money that was raised in a single round was 3 billion dollars by Didi Kuaidi (“2015 in Review”). Today, 2026, the largest amount raised in a single round is by OpenAI at 122 billion Dollars (Rosenbaum). In a little more than a decade, the largest round raised would have increased by over 4,000%. This shows that the amount of money that was involved during Theranos’s misconduct is much different and has much higher stakes than it does today. The amount of money that is involved today has substantially increased, even in the last decade.
+
+Additionally, Theranos created harm, not just for their investors' portfolios but to average Americans. Theranos was a company that built a product that would take a drop of blood and give you results of many different tests within minutes. Unfortunately, this did not actually work, and Elizabeth A. Holmes, the CEO, lied about its capabilities and duped investors. She was sentenced to prison later. Before Theranos was exposed, they would do testing on medical patients and provide inaccurate, life-altering information (“Elizabeth Holmes Sentenced”). Because they were a private company and not open to more investors, Elizabeth A. Holmes could get away with this.
+
+These laws originally existed to protect Americans from risky investments, but those risks have since diminished, and the rewards have increased, giving wealthy individuals a higher opportunity to make money. Companies are hiding misconduct because only a few people are researching them, and the firms do not report frequently or in-depth. Wansley discusses the abbreviation “IPO,” which stands for “Initial Public Offering” and is the point where a private company becomes public, and people no longer need to be an accredited investor to invest in that business. Wansley writes, “Since then, the trend of companies postponing or forgoing IPOs has accelerated. By January 2022, the number of unicorns had passed 900” (1204). He is addressing the fact that many companies have made it over the billion-dollar valuation mark as a private company, which used to be an extremely difficult milestone that only a handful of companies would ever get the opportunity to do. This not only shows that private markets have increased in valuation, but also that major valuation companies are not going public. Because companies are not having their IPO or postponing it, more people are not able to take advantage of these high valuation, high growth companies.
+
+A central argument surrounding this topic is that the wealth measurement system for qualifying accredited investors is not protecting Americans anymore and needs to adapt to a financial sophistication model. Zimmerman provides a helpful definition on what accredited investors are: “Regulation D allows a private company to raise an unlimited amount of money from an unlimited number of ‘accredited investors.’ 11 The definition of an accredited investor includes institutions such as banks and investment companies, as well as any natural person who has a net worth of over $1,000,000 or who has earned at least $200,000 per year for the past two years” (510). This helps explain why it might be difficult to become an accredited investor and why only a few people get to be an accredited investor in their lifetime.  Larissa Lee, a graduate of the University of Utah's S.J. Quinney College of Law and author of “The Ban Has Lifted: Now Is the Time to Change the Accredited-Investor Standard,” believes that accredited investor laws should be made stricter to protect investors. Lee disagrees with making accredited investor laws more suitable for the average American, but her idea of measuring based on financial sophistication rather than purely wealth is acceptable. Lee discusses that accredited investor laws are only based on wealth, which protects a few people. Instead, accredited investor laws should “be changed to reflect not only individual wealth, but also financial sophistication. It should require disclosure of the risks up front and a diversification requirement” (Lee 388). Lee argues that the people who are currently accredited investors also need to be financially sophisticated. In other words, she wants fewer people to be able to invest in private markets, but that does not help minorities or stop misconduct. Wealth is not what people need to measure; instead, financial sophistication is needed to protect more effectively and not to exclude the wrong people. This also helps protect individuals that came into money quickly and gives appropriate time to understand how to spend it.
+
+The financial sophistication model would judge whether a person is ready and capable of investing in private markets. Lee wanted the model to evaluate whether a person was competent in the financial industry, understands the risks involved, and is diversified enough to take on private market investments. Expanding on this, the financial sophistication model should have the ability to grant licenses to anyone as long as they are knowledgeable about the industry and the risks associated with it.
+
+Ultimately, marginalizing minorities from grand amounts of wealth, empowering illegal business practices, and not allowing financially sophisticated individuals to participate in private markets only help the fortunate and criminals. When viewed together, accredited investor laws give the wealthy lots of opportunity to make more money, while possibly allowing a company to take advantage of third parties through misconduct. In a world where the wealthy will always have more opportunities, moving toward the financial sophistication model will be the best alternative for leveling the playing field, even if it is not perfect.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Works Cited
+
+“2015 in Review: Top 5 PE & VC Deals, Exits and Funds.” PitchBook, 21 Dec. 2015, <https://pitchbook.com/news/articles/2015-in-review-top-5-pe-vc-deals-exits-and-funds>
+
+Barnes, Grier E. “Racial Exclusion in Private Markets: How the New Accredited Investor Standard Is Arbitrary and Capricious.” _New York University Law Review_, vol. 96, no. 6, Dec. 2021, pp. 1966–2008. _EBSCOhost_, <https://research.ebsco.com/linkprocessor/plink?id=0fef5a27-3112-3b49-b97e-905933510525>
+
+“Elizabeth Holmes Sentenced To More Than 11 Years For Defrauding Theranos Investors of Hundreds of Millions of Dollars.” United States Department of Justice, 18 Nov. 2022, <https://www.justice.gov/usao-ndca/pr/elizabeth-holmes-sentenced-more-11-years-defrauding-theranos-investors-hundreds>
+
+Lee, Larissa. “The Ban Has Lifted: Now Is the Time to Change the Accredited-Investor Standard.” _Utah Law Review_, vol. 2014, no. 2, Mar. 2014, pp. 369–88. _EBSCOhost_, <https://research.ebsco.com/linkprocessor/plink?id=8ecbda5a-f6d3-3274-b674-309513de8743>
+
+Rosenbaum, Eric. “OpenAI Funding Round Sets Stage for IPO.” CNBC, 31 Mar. 2026, <https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html>
+
+Stengel, Geri. “Startup Diversity At Risk: SEC To Recommend Stricter Accredited Investors Criteria.” Forbes, 5 Dec. 2023, <https://www.forbes.com/sites/geristengel/2023/12/05/startup-diversity-at-risk-sec-to-recommend-stricter-accredited-investors-criteria/>
+
+Wansley, Matthew. “Taming Unicorns.” _Indiana Law Journal_, vol. 97, no. 4, June 2022, pp. 1203–59. _EBSCOhost_, <https://research.ebsco.com/linkprocessor/plink?id=de85e195-ef07-375b-9db2-1516e2e9f562>
+
+Zimmerman, Christopher R. “Accredited Investors: A Need for Increased Protection in Private Offerings.” _Northwestern University Law Review_, vol. 114, no. 2, Mar. 2019, pp. 507–37. _EBSCOhost_, <https://research.ebsco.com/linkprocessor/plink?id=88d3ada4-286f-38d8-b208-a9e049e275b9>
