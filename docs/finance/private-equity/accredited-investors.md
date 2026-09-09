@@ -4,7 +4,7 @@ title: Accredited Investor Laws (Acedemic)
 
 Jackson Blackstone Booker
 Intro to Academic Writing 1103
-Professor Eliabeth Young
+Professor Elisabeth Young
 April 21, 2026
 
 The Untold Truth About Accredited Investor Laws
@@ -29,25 +29,7 @@ The financial sophistication model would judge whether a person is ready and cap
 
 Ultimately, marginalizing minorities from grand amounts of wealth, empowering illegal business practices, and not allowing financially sophisticated individuals to participate in private markets only help the fortunate and criminals. When viewed together, accredited investor laws give the wealthy lots of opportunity to make more money, while possibly allowing a company to take advantage of third parties through misconduct. In a world where the wealthy will always have more opportunities, moving toward the financial sophistication model will be the best alternative for leveling the playing field, even if it is not perfect.
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Works Cited
 
