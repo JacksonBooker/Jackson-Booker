@@ -1,5 +1,5 @@
 ---
-Solving Inequalities
+title: Solving Inequalities
 ---
 
 You solve inequalities as you would like any other equation. Here is an example:
