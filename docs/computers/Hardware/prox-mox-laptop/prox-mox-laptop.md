@@ -21,4 +21,7 @@ Safely eject your thumb drive and plug it into your computer that you are instal
 
 Boot Proxmox on your computer and then in the wizard choose install graphically. 
 
-When choosing the file-system, I went with EXT4 because
+When choosing the file-system, I went with EXT4 because it was an easier and better fit for what I am doing.
+
+## How to Create the First VM?
+
